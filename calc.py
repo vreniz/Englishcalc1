@@ -10,24 +10,24 @@ while continuar:
     print("3. Multiplication")
     print("4. Division")
 
-    operacion = int(input("Option: "))
+    operation = int(input("Option: "))
 
     numero1 = float(input("Enter first number: "))
     numero2 = float(input("Enter second number: "))
 
-    if operacion == 1:
+    if operation == 1:
         resultado = numero1 + numero2
         print("Result:", resultado)
 
-    elif operacion == 2:
+    elif operation == 2:
         resultado = numero1 - numero2
         print("Result:", resultado)
 
-    elif operacion == 3:
+    elif operation == 3:
         resultado = numero1 * numero2
         print("Result:", resultado)
 
-    elif operacion == 4:
+    elif operation == 4:
         while numero2 == 0:
             numero2 = float(input("Enter a valid second number different from 0: "))
         resultado = numero1 / numero2
