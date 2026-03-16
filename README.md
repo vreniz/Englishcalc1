@@ -1,19 +1,22 @@
-# Basic Two Numbers Calculator in Python
+# Basic Two Numbers Calculator
 
 ## Description
 
-This project is a simple calculator written in Python.  
-It is a program that allows the user to perform basic mathematical operations with two numbers.  
-The calculator is designed to demonstrate loops, conditions, variables, and user input in Python.
+This project is a basic calculator developed using Python.  
+It is a program that allows users to perform four fundamental mathematical operations: addition, subtraction, multiplication, and division.
+
+The calculator is designed to demonstrate the use of variables, loops, conditional statements, and user input in Python. It is a simple educational project that helps beginners understand how control structures work in a Python program.
 
 ## How it works
 
-1. The program prints a welcome message.
-2. The calculator displays a menu with four operations: addition, subtraction, multiplication, and division.
-3. The user selects the operation and enters two numbers.
-4. The program checks the selected option using conditional statements.
-5. The program performs the selected mathematical operation and prints the result.
-6. The calculator asks the user if they want to continue using the program.
+1. The program prints a welcome message to introduce the calculator.
+2. The calculator displays a menu with four mathematical operations.
+3. The user selects the desired operation by entering a number.
+4. The program asks the user to enter two numerical values.
+5. The program checks the selected option using conditional statements.
+6. The calculator performs the selected mathematical operation.
+7. The result of the operation is printed on the screen.
+8. The program asks the user if they want to continue using the calculator.
 
 ## Status
 
