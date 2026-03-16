@@ -1,4 +1,4 @@
-print("Welcome to our Basic two numbers - Integer Calculator")
+print("Welcome to our Basic two numbers - Calculator")
 
 continuar = True
 
