@@ -33,7 +33,7 @@ while continuar:
         resultado = numero1 / numero2
         print("Result:", resultado)
 
-    respuesta = input("Do you want to use the calculator again? si/no: ")
+    respuesta = input("Do you want to use the calculator again? yes/no: ")
 
     if respuesta == "no":
         continuar = False
